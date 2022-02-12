@@ -20,12 +20,19 @@ get a more recent version or would like support**
 
 To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using its DOI.
 
+[![DOI](https://zenodo.org/badge/457473931.svg)](https://zenodo.org/badge/latestdoi/457473931)
+
 Below is the BibTex for citing this version of the code.
 
 ```
 @article{FrankWolfe.jl,
-TODO
-}  
+  author =        {M. Besançon and A. Carderera and S. Pokutta},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients},
+  year =          {2022},
+  doi =           {10.5281/zenodo.6054177},
+  url =           {https://github.com/INFORMSJoC/2021.0098}
+  }  
 ```
 
 # FrankWolfe.jl
