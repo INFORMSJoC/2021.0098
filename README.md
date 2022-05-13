@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://arxiv.org/abs/2104.06675) by 
+[FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients](https://doi.org/10.1287/ijoc.2022.1191) by 
 M. Besançon, A. Carderera, and S. Pokutta. The snapshot is based on 
 [this SHA](https://github.com/ZIB-IOL/FrankWolfe.jl/commit/f8fbdf9e2074eb72c51aedb9018280bcd930f5f6) 
 in the development repository. 
